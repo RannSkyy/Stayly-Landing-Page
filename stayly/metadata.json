@@ -1,0 +1,6 @@
+{
+  "name": "Stayly",
+  "description": "Premium travel accommodation booking and exploratory platform offering high-end handpicked villas, apartments, guesthouses, and hotel stays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
